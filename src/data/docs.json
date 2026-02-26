@@ -1,0 +1,52 @@
+[
+  {
+    "id": "leave-policy",
+    "title": "Leave Policy",
+    "content": "All full-time employees are entitled to 20 days of paid annual leave per calendar year. Leave accrues on a monthly basis at the rate of 1.67 days per month. Unused leave can be carried forward up to a maximum of 5 days into the next calendar year. Leave requests must be submitted at least 2 weeks in advance through the HR portal. Manager approval is required for all leave requests. Sick leave is provided at 10 days per year and does not require advance notice but requires a medical certificate for absences exceeding 2 consecutive days. Maternity leave is 26 weeks paid and paternity leave is 2 weeks paid. Bereavement leave of up to 5 days is available for immediate family members."
+  },
+  {
+    "id": "remote-work-policy",
+    "title": "Remote Work Policy",
+    "content": "Employees may work remotely up to 3 days per week with manager approval. A formal remote work agreement must be signed before starting remote work. Employees must maintain a dedicated workspace with reliable internet connectivity of at least 25 Mbps. Core working hours are 10:00 AM to 4:00 PM in the employee's local time zone during which they must be available for meetings and communication. Remote workers must use the company VPN for all work-related activities. Equipment including laptop, monitor, and headset will be provided by the company. A monthly stipend of $75 is provided for internet and home office expenses. Remote work privileges may be revoked if performance standards are not met."
+  },
+  {
+    "id": "expense-reimbursement",
+    "title": "Expense Reimbursement Policy",
+    "content": "Business expenses must be submitted within 30 days of incurrence through the expense management system. All expenses above $50 require prior manager approval. Receipts are mandatory for all expenses above $25. Travel expenses including airfare, hotel, and meals are reimbursable when pre-approved. Economy class airfare is standard for domestic flights; business class may be approved for international flights exceeding 6 hours. Hotel expenses are capped at $200 per night for domestic travel and $300 for international travel. Meal expenses are reimbursable up to $60 per day during business travel. Mileage reimbursement for personal vehicle use is $0.655 per mile. Reimbursements are processed within 10 business days of approval."
+  },
+  {
+    "id": "it-support",
+    "title": "IT Support & Security Guidelines",
+    "content": "IT support is available Monday through Friday, 8:00 AM to 8:00 PM via the IT helpdesk portal, email at itsupport@company.com, or phone at extension 4357. For critical issues outside business hours, an on-call engineer can be reached through the emergency hotline. All employees must use multi-factor authentication for all company systems. Passwords must be at least 12 characters with a mix of uppercase, lowercase, numbers, and special characters, and must be changed every 90 days. Company devices must have full-disk encryption enabled. Personal devices may not be used to access company data without MDM enrollment. Software installations require IT approval. Phishing attempts should be reported immediately to security@company.com. VPN must be used when accessing company resources from outside the office network."
+  },
+  {
+    "id": "onboarding",
+    "title": "Employee Onboarding Process",
+    "content": "New employee onboarding is a 2-week structured program. Day 1 includes orientation, ID badge issuance, IT equipment setup, and HR paperwork completion. Week 1 covers company culture sessions, team introductions, system access setup, and mandatory compliance training. Week 2 focuses on role-specific training, shadowing sessions, and goal-setting with the direct manager. All new employees are assigned a buddy from their team for the first 90 days. Required documents include signed offer letter, government-issued ID, tax forms, banking details for direct deposit, and emergency contact information. Benefits enrollment must be completed within the first 30 days. A 90-day check-in meeting with HR and the manager is scheduled to review progress and address any concerns."
+  },
+  {
+    "id": "code-of-conduct",
+    "title": "Code of Conduct",
+    "content": "All employees are expected to maintain the highest standards of professional conduct. Discrimination, harassment, or bullying of any kind is strictly prohibited and will result in disciplinary action up to and including termination. Conflicts of interest must be disclosed to HR and the employee's manager. Company property and resources must be used for business purposes only. Confidential information must not be shared outside the organization without proper authorization. Social media posts about the company must comply with the social media policy. Gifts from vendors or clients exceeding $100 in value must be reported to the compliance team. Violations of the code of conduct should be reported through the anonymous ethics hotline or directly to HR. The company maintains a strict zero-tolerance policy for retaliation against whistleblowers."
+  },
+  {
+    "id": "performance-review",
+    "title": "Performance Review Process",
+    "content": "Performance reviews are conducted bi-annually in June and December. The review process includes self-assessment, peer feedback from at least 2 colleagues, and manager evaluation. Goals are set at the beginning of each review cycle using the SMART framework. Performance is rated on a 5-point scale: Exceptional, Exceeds Expectations, Meets Expectations, Needs Improvement, and Unsatisfactory. Employees rated 'Needs Improvement' or below are placed on a Performance Improvement Plan (PIP) with a 90-day timeline. Annual compensation adjustments are based on performance ratings and market benchmarks. Promotion eligibility requires at least 12 months in the current role and a rating of 'Exceeds Expectations' or above in the most recent review cycle. Employees may request a mid-cycle feedback session with their manager at any time."
+  },
+  {
+    "id": "health-benefits",
+    "title": "Health & Wellness Benefits",
+    "content": "The company offers comprehensive health insurance covering medical, dental, and vision care. Employees can choose from three plan tiers: Basic, Standard, and Premium. The company covers 80% of the premium for individual coverage and 60% for dependent coverage. A Health Savings Account (HSA) is available with Standard and Premium plans, with a company contribution of $500 per year. Mental health services are covered including up to 12 therapy sessions per year. An Employee Assistance Program (EAP) provides 24/7 confidential counseling. A gym membership reimbursement of up to $50 per month is available. Annual health screenings and flu vaccinations are provided on-site at no cost. Wellness programs include yoga classes, meditation sessions, and ergonomic assessments."
+  },
+  {
+    "id": "data-privacy",
+    "title": "Data Privacy & Handling Policy",
+    "content": "All employees must comply with applicable data protection regulations including GDPR and CCPA. Personal data must be collected only for specified, legitimate purposes and with appropriate consent. Data must be classified as Public, Internal, Confidential, or Restricted. Confidential and Restricted data must be encrypted both in transit and at rest. Access to personal data is granted on a need-to-know basis and must be reviewed quarterly. Data retention periods must be defined for all data types and adhered to strictly. Data breaches must be reported to the Data Protection Officer within 24 hours of discovery. Employees must complete annual data privacy training. Third-party data processors must be vetted and must sign data processing agreements. Employees handling EU resident data must be familiar with data subject rights including the right to access, rectification, and erasure."
+  },
+  {
+    "id": "training-development",
+    "title": "Training & Professional Development",
+    "content": "The company allocates an annual learning budget of $2,000 per employee for professional development. This covers courses, certifications, conferences, and workshops. Employees must submit a learning plan for manager approval at the start of each fiscal year. Time off for approved training is provided up to 5 days per year. The company maintains partnerships with online learning platforms including LinkedIn Learning and Coursera, providing free access to all employees. Internal knowledge-sharing sessions are held monthly. Mentorship programs are available for employees at all levels. Tuition reimbursement of up to $5,250 per year is available for degree programs relevant to the employee's role. Certification exam fees are fully reimbursed upon passing. Employees must share key learnings from external training with their team within 2 weeks of completion."
+  }
+]
